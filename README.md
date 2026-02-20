@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://adai.network">
+    <img src="adai-mark.png" width="140"/>
+  </a>
+</p>
+
+<p align="center">
+Digital Architecture Infrastructure
+</p>
 # EdgeLayer Systems™
 
 Digital Infrastructure Architect  
