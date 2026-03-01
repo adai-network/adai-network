@@ -7,14 +7,14 @@
 <p align="center">
 Digital Architecture Infrastructure
 </p>
-# EdgeLayer Systems™
+EdgeLayer Systems™
 
 Digital Infrastructure Architect  
 Systems Designer · Authority Framework Engineer  
 
 ---
 
-## The Authority Framework™
+The Authority Framework™
 
 Modern cloud infrastructure engineered for permanence, structural clarity, and digital ownership.
 
@@ -28,7 +28,7 @@ EdgeLayer Systems builds:
 
 ---
 
-## Infrastructure Philosophy
+Infrastructure Philosophy
 
 Architecture before applications.  
 Ownership before platforms.  
@@ -36,7 +36,7 @@ Structure before scale.
 
 ---
 
-## What I’m Currently Building
+What I’m Currently Building
 
 🔧 EdgeLayer Systems — cloud-native authority architecture  
 🧠 Structural infrastructure frameworks  
@@ -45,7 +45,7 @@ Structure before scale.
 
 ---
 
-## Public Architecture Index
+Public Architecture Index
 
 Authority Framework™  
 Infrastructure Playbooks  
@@ -54,7 +54,7 @@ Web3 Structural Experiments
 
 ---
 
-## Connect
+Connect
 
 Website: https://edgelayersystems.com  
 Authority Framework: https://edgelayersystems.com/authority.html  
